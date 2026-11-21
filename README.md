@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_9827.jpeg" alt="Personal marine photography" width="760">
+</p>
+
 ## Hey, I'm Jake 🪼
 
 Originally from Orange County, California, I'm currently pursuing my Master's in Marine Biology at James Cook University in Queensland, Australia.
