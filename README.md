@@ -1,4 +1,4 @@
-## Hey, I'm Jake 🌊
+## Hey, I'm Jake 🪼
 
 Originally from Orange County, California, I'm currently pursuing my Master's in Marine Biology at James Cook University in Queensland, Australia.
 
