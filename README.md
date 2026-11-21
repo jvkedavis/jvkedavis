@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_2208%202.jpg" alt="Personal marine photography" width="760">
+  <img src="IMG_2208%203.jpg" alt="Personal marine photography" width="760">
 </p>
 
 ## Hey, I'm Jake 🪼
